@@ -7,6 +7,6 @@ The above approach resulted in a private leaderboard score of 0.25584 on the kag
 
 The project combines the ideas and presented in  https://towardsdatascience.com/computer-vision-instance-segmentation-with-mask-r-cnn-7983502fcad1 and https://towardsdatascience.com/distracted-driver-detection-using-deep-learning-e893715e02a4 and leverages the code found in https://towardsdatascience.com/distracted-driver-detection-using-deep-learning-e893715e02a4
 
-To follow the project start with notebook:distracted-driver-detection.ipynb and follow along the code
+To follow the project start with the notebook distracted-driver-detection.ipynb, and follow along the code
 
 The project leveraged AWS EC2 to run Mask RCNN and google Colab Pro for model training and predictions.
